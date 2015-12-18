@@ -1,0 +1,28 @@
+name: CADE
+favicon: null
+layout_spectrum: 0.31031661038286984
+typography_spectrum: 0.18640129477716982
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9198772765230387
+  lightness: 0.9479119007010013
+  saturation: 0.35183807532303035
+  rhythmicContrast: 0.3846923573873937
+purpose: []
