@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[CADE]]></title>
         <description><![CDATA[CADE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cade/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 13:52:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Dec 2015 13:52:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cade/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Finding your dream job]]></title>
+            <description><![CDATA[<article><h1>Finding your dream job</h1><p>Looking for that dream Job?</p></article>]]></description>
+            <link>https://thegrid.ai/cade/finding-your-dream-job/index.html</link>
+            <guid isPermaLink="false">960be132-20b1-4d9f-9fd4-e8152159081b</guid>
+            <pubDate>Sat, 19 Dec 2015 13:51:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Career Development is what we are all about. So CADE is just a short way of saying CAreer DEvelopment.</p>]]></description>
-            <link>undefinedc59f5d82-9bbc-4ccc-bcab-50700b3c51a2/index.html</link>
+            <link>https://thegrid.ai/cade/c59f5d82-9bbc-4ccc-bcab-50700b3c51a2/index.html</link>
             <guid isPermaLink="false">c59f5d82-9bbc-4ccc-bcab-50700b3c51a2</guid>
             <pubDate>Sat, 19 Dec 2015 13:51:56 GMT</pubDate>
         </item>
