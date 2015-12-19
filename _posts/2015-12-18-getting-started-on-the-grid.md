@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2015-12-18T11:35:53.644Z'
-dateModified: '2015-12-18T11:34:29.326Z'
+datePublished: '2015-12-19T13:51:25.195Z'
+dateModified: '2015-12-18T13:13:52.658Z'
 title: Getting Started on The Grid
 author: []
+sourcePath: _posts/2015-12-18-getting-started-on-the-grid.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-18-getting-started-on-the-grid.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
