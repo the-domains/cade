@@ -1,7 +1,7 @@
 name: CADE
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.32112
+typography_spectrum: 0.15291
 collections:
   - index:
       navigable: true
