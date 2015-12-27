@@ -1,20 +1,7 @@
-title: Finding a Job Just got Easier
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 1
-favicon: null
 name: CADE
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.1652614
 collections:
   - index:
       navigable: true
@@ -27,15 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Finding a Job Just got Easier
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0
-  lightness: 0.677909
-  saturation: 0.9165261
-  rhythmicContrast: 0.1053963
   brandColors:
     - '#0b0c07'
     - '#ffffff'
     - '#9b9389'
     - '#5a5143'
     - '#c6b7a1'
-typography_spectrum: 0.1652614
+  brandStrength: 0.3125
+  lightness: 0.677909
+  saturation: 0.9165261
+  rhythmicContrast: 0.1053963
+purpose: []
