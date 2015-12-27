@@ -1,29 +1,41 @@
-name: CADE
-favicon: null
-layout_spectrum: 0.9196
-typography_spectrum: 0.41667
 title: Finding a Job Just got Easier
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: CADE
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0
+  lightness: 0.677909
+  saturation: 0.9165261
+  rhythmicContrast: 0.1053963
   brandColors:
     - '#0b0c07'
     - '#ffffff'
     - '#9b9389'
     - '#5a5143'
     - '#c6b7a1'
-  brandStrength: 0
-  lightness: 0.25
-  saturation: 0.1875
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.1652614
