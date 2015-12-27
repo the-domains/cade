@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[CADE]]></title>
-        <description><![CDATA[CADE]]></description>
+        <title><![CDATA[Finding a Job Just got Easier]]></title>
+        <description><![CDATA[Finding a Job Just got Easier]]></description>
         <link>https://thegrid.ai/cade/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 13:42:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2015 14:26:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cade/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac575b72-b502-4e63-827a-f01de4a28374.jpg">]]></description>
+            <link>https://thegrid.ai/cade/fd111a36-519d-4bac-a5c3-4386e9f6f0e9/index.html</link>
+            <guid isPermaLink="false">fd111a36-519d-4bac-a5c3-4386e9f6f0e9</guid>
+            <pubDate>Sun, 27 Dec 2015 14:13:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2184ae3d-6f65-423c-afed-e8c408f66c89.jpg">]]></description>
+            <link>https://thegrid.ai/cade/f0e84f6b-dd1c-40bf-975e-2da5790c3c46/index.html</link>
+            <guid isPermaLink="false">f0e84f6b-dd1c-40bf-975e-2da5790c3c46</guid>
+            <pubDate>Sun, 27 Dec 2015 13:50:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/54ea36a9-e1d6-421a-8406-9e2d180a0dda.jpg">]]></description>
@@ -21,11 +35,11 @@
             <pubDate>Sun, 27 Dec 2015 13:21:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Finding your dream job]]></title>
-            <description><![CDATA[<article><h1>Finding your dream job</h1><p>Looking for that dream Job?</p></article>]]></description>
+            <title><![CDATA[Finding your job just got easier]]></title>
+            <description><![CDATA[<article><h1>Finding your job just got easier</h1><p>How many interviews are you getting?</p></article>]]></description>
             <link>https://thegrid.ai/cade/finding-your-dream-job/index.html</link>
             <guid isPermaLink="false">960be132-20b1-4d9f-9fd4-e8152159081b</guid>
-            <pubDate>Sat, 19 Dec 2015 13:51:58 GMT</pubDate>
+            <pubDate>Sun, 27 Dec 2015 14:25:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
