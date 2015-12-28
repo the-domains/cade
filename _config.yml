@@ -1,6 +1,6 @@
 name: CADE
 favicon: null
-layout_spectrum: 0.17438
+layout_spectrum: 0.89969
 typography_spectrum: 1
 collections:
   - index:
@@ -35,7 +35,7 @@ color:
     - '#5a5143'
     - '#c6b7a1'
   brandStrength: 0.625
-  lightness: 0.4375
+  lightness: 0.625
   saturation: 0.25
   rhythmicContrast: 1
 purpose: []
